@@ -5,8 +5,10 @@ Information Gathering &amp; Scannning Tools
 you need to have python3.*.*
 
 ## Running
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-python3 IG\&SN.py
+    python3 IG\&SN.py
+
+
 
 ### Enjoy :)
